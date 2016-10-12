@@ -44,6 +44,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Blend Labs](https://blendlabs.com/company/jobs/) | San Francisco, CA |
 | [Blend](https://blendlabs.com/company/jobs/) | San Francisco, CA |
 | [Bloomz](https://www.bloomz.net/) | Redmond, WA |
+| [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
 | [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
 | [Box](https://www.box.com/careers/) |  |
 | [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
@@ -112,7 +113,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Farfetch](http://www.farfetch.com/careers) |  |
 | [Fastly](https://www.fastly.com/about/careers) | San Francisco, CA |
 | [Fitbit](https://www.fitbit.com/jobs) | Boston, MA; San Francisco, CA |
-| [Flipboard](https://about.flipboard.com/careers/) | New York, NY; San Francisco, CA |
+| [Flipboard](https://about.flipboard.com/careers/) | New York, NY; Palo Alto, CA |
 | [Foursquare](https://foursquare.com/jobs/) | San Francisco, CA |
 | [Funding Circle](https://www.fundingcircle.com/us/about/careers/) | San Francisco, CA |
 | [General Assembly](https://generalassemb.ly/careers) | New York, NY |
@@ -130,6 +131,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Gusto](https://gusto.com/careers) | San Francisco, CA |
 | [HackerRank](https://www.hackerrank.com/careers) | Palo Alto, CA |
 | [Hailo](https://hailo.workable.com/) |  |
+| [Haiku Deck](https://www.haikudeck.com/jobs) | Seattle, WA |
 | [Hart, Inc.](http://hart.com/careers/) | Anaheim, CA |
 | [Hipmunk](https://www.hipmunk.com/jobs) | San Francisco, CA |
 | [Hippoverse](https://www.hippoverse.com/join_our_team) | Remote; San Diego, CA |
@@ -247,7 +249,9 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA |
 | [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA |
 | [Robinhood](https://jobs.lever.co/robinhood) | Palo Alto, CA |
+| [ROBLOX](http://corp.roblox.com/careers) | San Mateo, CA |
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
+| [Rover.com](http://jobs.rover.com/) | Seattle, WA |
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
@@ -276,7 +280,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Source Intelligence](http://www.sourceintelligence.com/careers/) | San Diego, CA |
 | [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
 | [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA |
-| [Sprout Social](http://sproutsocial.com/careers) |  |
+| [Sprout Social](http://sproutsocial.com/careers) | Chicago, IL |
 | [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
 | [Squarespace](http://www.squarespace.com/about/careers) | New York, NY |
 | [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
@@ -329,7 +333,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Work Market](https://www.workmarket.com/jobs) | New York, NY |
 | [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
 | [Xero](https://www.xero.com/nz/about/careers/) |  |
-| [Yelp](http://www.yelp.com/careers/home) |  |
+| [Yelp](http://www.yelp.com/careers/home) | San Francisco, CA |
 | [Yext](http://www.yext.com/company/careers/) | New York, NY |
 | [YouNow](https://www.younow.com/jobs) | New York, NY |
 | [Zalando](https://tech.zalando.com/jobs/) | Berlin, Germany; London, UK; Dortmund, Germany |
